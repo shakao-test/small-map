@@ -12,7 +12,7 @@
 * type: tutorial
 * next: hero2
 * description: Create a main character that shoots some projectiles
-* url: /tutorials/happy-flower
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
 
 
@@ -21,7 +21,7 @@
 * name: Create a Hero
 * type: tutorial
 * description: Create a main character that shoots some projectiles
-* url: /tutorials/happy-flower
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
 
 
@@ -34,5 +34,5 @@
 * name: Create a Hero
 * type: tutorial
 * description: Create a main character that shoots some projectiles
-* url: /tutorials/happy-flower
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
